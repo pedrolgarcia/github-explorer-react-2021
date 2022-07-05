@@ -1,3 +1,5 @@
 export function App() {
-  return <h1>Hello Wsdas</h1>;
+  throw new Error("Eita Giovana!");
+
+  return <h1>Hello World</h1>;
 }
